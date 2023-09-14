@@ -94,7 +94,7 @@
         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">More</a>
         <ul class="dropdown-menu">
             <li><a id="drop" class="dropdown-item" href="https://developer.mozilla.org/ko/docs/Web/HTTP/Status/503" target="_blank">Escape Game 정답</a></li>
-            <li><a id="drop" class="dropdown-item" href="https://github.com/changbaeg/Project01" target="_blank">깃허브[Open source]</a></li>
+            <li><a id="drop" class="dropdown-item" href="https://github.com/changbaeg/HomepageEx" target="_blank">깃허브[Open source]</a></li>
         </ul>
     </li>
     <li class="nav-item"><a class="nav-link" href="<%=root%>/login/login.jsp">Sign in</a></li>   
